@@ -84,7 +84,7 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 CRONJOBS = [
-    ('*/30 * * * *', 'spiders.amazon_good.closepoll.my_job'),
+    ('*/1 * * * *', 'spiders.amazon_good.closepoll.my_job'),
 ]
 ROOT_URLCONF = 'amazon.urls'
 
