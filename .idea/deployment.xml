@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@47.52.139.40:22">
+    <serverData>
+      <paths name="MxShop">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/MxShop" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="amazon">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/amazon" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@47.52.139.40:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/amazon" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
