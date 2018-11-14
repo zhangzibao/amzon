@@ -1,15 +1,14 @@
-# MxShop
-Django REST framework + vue 打造生鲜超市<br />
+# amazon
+Django REST framework + vue + cube-ui 打造爬虫监控app <br />
 
 ## 环境
 python: 3.6.4<br /> 
 Django: 2.0.2
-### MyBlog
-我的博客中有对应项目详细教程
-[Cnblog](http://www.cnblogs.com/derek1184405959/p/8733194.html)<br /> 
-### xadmin下载地址
-[点击下载](https://github.com/sshwsfc/xadmin/tree/django2)<br /> 
-### 富文本编辑器Ueditor下载地址
-[点击下载](https://github.com/twz915/DjangoUeditor3/)<br /> 
+
+## 介绍
+
+> 实时爬取亚马逊部分商品价格
+> 用户设置预预期价格
+> 当商品价格达到预期价格时，会对用户推送消息提醒用户
 
 
