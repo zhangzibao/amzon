@@ -56,7 +56,7 @@ pycparser==2.18
 pycryptodome==3.6.1
 PyDispatcher==2.0.5
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 PyMySQL==0.8.0
 pyOpenSSL==18.0.0
