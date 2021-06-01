@@ -80,7 +80,7 @@ tablib==0.12.1
 Twisted==18.4.0
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 wxPython==4.0.0b2
 xadmin==2.0.1
